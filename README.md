@@ -9,7 +9,6 @@
 
 echo "Please enter a number: "
 read num
-
 if [[ $num -gt 0 ]]; then
   echo "$num is positive"
 elif [[ $num -lt 0 ]]; then
@@ -18,6 +17,7 @@ else
   echo "$num is zero"
 fi
 ```  
+
 
 - Operators :
 
@@ -36,4 +36,13 @@ while [[ $i -le 10 ]] ; do
   (( i += 1 ))
 done
 
+```
+
+- For Loop:
+```
+#!/bin/bash
+for i in {1..5}
+do
+    echo "$i"
+done
 ```
