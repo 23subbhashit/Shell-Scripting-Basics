@@ -21,3 +21,7 @@ fi
 - Operators :
 
 ![Ubuntu 64-bit - VMware Workstation 15 Player (Non-commercial use only) 14-07-2023 19_07_34](https://github.com/23subbhashit/Shell-Scripting-Basics/assets/43717493/c3ecc1b8-cb86-45db-bbb9-e09500746315)
+```
+AND : -a
+OR : -o
+```
