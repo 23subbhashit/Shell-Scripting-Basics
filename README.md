@@ -1,4 +1,5 @@
 # Shell-Scripting-Basics
+![Ubuntu 64-bit - VMware Workstation 15 Player (Non-commercial use only) 14-07-2023 19_20_22](https://github.com/23subbhashit/Shell-Scripting-Basics/assets/43717493/27882cc8-3ff2-4f5f-9896-b1772ae33165)
 
 
 - IF-ELSE
